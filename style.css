@@ -1,0 +1,47 @@
+
+.travel_mainDiv
+{
+    border: 2px solid lightgrey;
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    font-size: 20px;
+    color:blue ;
+    font-family: Verdana;
+
+}
+.movie_head
+{
+    font-size: 20px;
+    padding:6px, 22px;
+    border-radius: 10px;
+    margin-bottom:15px;
+}
+
+.achievement_text span
+{
+color:goldenrod;
+}
+.new
+{
+    margin-bottom:20px;
+}
+#contact iframe
+{
+   
+width:100%;
+}
+#Picture
+{
+width: 250px;
+height: 250px;
+}
+h5{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
